@@ -1,0 +1,16 @@
+body{
+    padding:0;
+    margin:0;
+}
+.Wraper{
+    margin-top:30px;
+}
+#showNewPassword{
+    margin-top:30px;
+}
+#passwordLength{
+    width:50px;
+}
+#passwordGeneratorTopTitle{
+    margin-bottom:20px;
+}
